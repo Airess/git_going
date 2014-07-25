@@ -9,3 +9,5 @@ This is the first file in this repo.
 Code or be coded. 
 
 I'm really going to miss Skillcrush!
+
+But I hope to get accepted into the Ada Developers Academy
